@@ -2,8 +2,6 @@ import { Client, GatewayIntentBits } from "discord.js";
 import fetch from "node-fetch";
 
 // ================= CONFIG =================
-const DISCORD_TOKEN = "MTQ1NzQyODE4NzU0NDgxNzgxNw.GPFr4w.y5SI0x3t7Sdv09UNMLNenZWLtHCeLcbKGK8aTY";
-const CR_TOKEN = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiIsImtpZCI6IjI4YTMxOGY3LTAwMDAtYTFlYi03ZmExLTJjNzQzM2M2Y2NhNSJ9.eyJpc3MiOiJzdXBlcmNlbGwiLCJhdWQiOiJzdXBlcmNlbGw6Z2FtZWFwaSIsImp0aSI6ImE0ZjVhN2U1LTc4OTQtNGQ2ZC04Y2E0LTk5NWRmM2Q2ODVlNCIsImlhdCI6MTc2NzU0OTUyMywic3ViIjoiZGV2ZWxvcGVyLzI3OTQ4NDMxLTVkMGQtZjY4NS1kZDViLTVlZWRhY2JjMzM1ZiIsInNjb3BlcyI6WyJyb3lhbGUiXSwibGltaXRzIjpbeyJ0aWVyIjoiZGV2ZWxvcGVyL3NpbHZlciIsInR5cGUiOiJ0aHJvdHRsaW5nIn0seyJjaWRycyI6WyI5NS4yMzQuNjIuMTA0Il0sInR5cGUiOiJjbGllbnQifV19.gBF0OPj9ZxvJeyJmEkMy3Q4e8yT3U1Hj1d-WqIhfXGUC-V9cfA31gUlmHGCcQwitjNJVYwyUDHk69HXJyJekSg";
 const PLAYER_TAG = "%23VYPYYJGR9"; // es: "#ABCD1234"
 const USER_ID = "1413397582578712719";   // ID utente che riceve DM
 
